@@ -2,3 +2,5 @@ streamlit
 numpy
 matplotlib
 pillow
+scikit-image
+pandas
